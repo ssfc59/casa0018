@@ -12,8 +12,8 @@ Complete the sentence:
 ---
 
 ## Data:
-Also think about: 
 What data will you use and what data will you capture?
+
 Dataset:
 Kaggle dataset Fruits 360
 ![image](https://user-images.githubusercontent.com/114293506/223676805-71ef4deb-c03b-4d49-9f1a-7a7a402156b8.png)
@@ -27,6 +27,7 @@ Kaggle dataset Fruits 360
 
 ## Future questions:
 -Narrow down the number of fruit types classified eg. only classify images of apples and bananas
+
 -Narrow down to classify varieties of a specific fruit eg. different apple varieties
 
 
