@@ -17,7 +17,7 @@ What data will you use and what data will you capture?
 Dataset:
 Apple2orange Dataset found on Kaggle
 ![image](https://user-images.githubusercontent.com/114293506/223704632-b204e1b3-df7e-4229-a10c-7702872d1751.png)
-
+-contains images of apples and oranges in a more realistic setting
 ## Steps:
 1. Upload data to Edge Impulse
 2. Train the model
