@@ -7,7 +7,7 @@
 ## Idea: 
 Complete the sentence:
 
-**I want my project to be able to (1) classify an image of a fruit using the (2) camera on my (3) mobile phone **
+**I want my project to be able to (1) classify an image of fruits using the (2) camera on my (3) mobile phone **
 
 ---
 
@@ -15,9 +15,8 @@ Complete the sentence:
 What data will you use and what data will you capture?
 
 Dataset:
-Kaggle dataset Fruits 360
-![image](https://user-images.githubusercontent.com/114293506/223676805-71ef4deb-c03b-4d49-9f1a-7a7a402156b8.png)
--May try to capture my own data if I want to classify images of a specific type or variety of fruit
+Apple2orange Dataset found on Kaggle
+![image](https://user-images.githubusercontent.com/114293506/223704632-b204e1b3-df7e-4229-a10c-7702872d1751.png)
 
 ## Steps:
 1. Upload data to Edge Impulse
@@ -26,9 +25,9 @@ Kaggle dataset Fruits 360
 ![Screenshot (6815)](https://user-images.githubusercontent.com/114293506/223679703-e0ca4953-e0d3-4975-afa0-b695249d08b8.png)
 
 ## Future questions:
--Narrow down the number of fruit types classified eg. only classify images of apples and bananas
-
+-Narrow down the number of fruit types classified eg. only classify images of apples
 -Narrow down to classify varieties of a specific fruit eg. different apple varieties
+-Find a different dataset
 
 
 
